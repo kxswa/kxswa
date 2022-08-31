@@ -9,5 +9,3 @@ https://kxswa.tk/v2ray
 
 - **yaml格式**  
 https://kxswa.tk/clash
-
-建议每天更新下订阅
