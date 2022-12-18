@@ -1,10 +1,4 @@
-<h4 align="center">访客数 :eyes:</h4>
-
-<p align="center">
-<img  src="https://profile-counter.glitch.me/kxswa/count.svg" alt="Sub :: Visitor's Count" />
-</p>
-  
-![kxswa's GitHub stats](https://github-readme-stats.vercel.app/api?username=kxswa&show_icons=true&theme=radical)
+  ![kxswa's GitHub stats](https://github-readme-stats.vercel.app/api?username=kxswa&show_icons=true&theme=radical)
   
 ***  
 ### 🔈TG频道：[@kxswa](https://t.me/kxswa/) 
